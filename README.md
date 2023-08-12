@@ -123,7 +123,7 @@ Para popular os dados em massa na Tabela, utilizamos uma ténica de gerar o teto
 
 Inicialmente baixamos a tabela de relações de cidades de códigos UNLOCO na página da UNECE através do [link](https://service.unece.org/trade/locode/br.htm)
 
-Em seguida fizemos o tratamento da tabela no Excel para a obter de forma rápida o script da Query. Para conferir como foi realizado essa tarefa, acesse o [arquivo]() 
+Em seguida fizemos o tratamento da tabela no Excel para a obter de forma rápida o script da Query. Para conferir como foi realizado essa tarefa, acesse o [arquivo](https://github.com/luizpolicarpo/Data-Manipulation-Language-DML/blob/main/Query%20INSERT%20INTO%20Tabela%20UNLOCO.xlsx) 
 
 
 ```sql 
