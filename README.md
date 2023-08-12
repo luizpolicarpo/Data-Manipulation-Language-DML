@@ -13,13 +13,13 @@ Considerando que já temos as Modelagens Conceitual e Lógica, vamos partir dire
 
 A atividade prática terá as seguintes tarefas:
 
--- Criar uma tabela: tbpessoa com os campos: cod, nome, cpf e datanasc
--- Inserir 10 registros aleatórios (dados fictícios)
--- Alterar a datanasc do cod de número 5 para 08/03/2022
--- Deletar o registro do cod de número 10
--- Alterar o tipo de dado do campo: cod para smallint, se tiver smallint, mude para bigint
--- *** atenção ao Where ***
--- Criar uma outra tabela, relacionar com a de cima, popular e gerar selects
+1. Criar uma tabela: tbpessoa com os campos: cod, nome, cpf e datanasc
+2. Inserir 10 registros aleatórios (dados fictícios)
+3. Alterar a datanasc do cod de número 5 para 08/03/2022
+4. Deletar o registro do cod de número 10
+5. Alterar o tipo de dado do campo: cod para smallint, se tiver smallint, mude para bigint
+6. *** atenção ao Where ***
+7. Criar uma outra tabela, relacionar com a de cima, popular e gerar selects
 
 
 ```sql
