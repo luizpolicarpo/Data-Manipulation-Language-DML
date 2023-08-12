@@ -5913,17 +5913,17 @@ Bom, no  estudo prático apresentado acima sobre a Linguagem de Manipulação de
 
 As tarefas realizadas foram as seguintes:
 
-1.Criação da tabela tbpessoa: Foi criada a tabela "tbpessoa" com os campos: "cod" (integer), "nome" (varchar), "cpf" (varchar) e "datanasc" (date)
-!
-2.Inserção de 10 registros aleatórios: Foram inseridos 10 registros fictícios na tabela "tbpessoa", cada um contendo informações como código, nome, CPF e data de nascimento.
-!
-3.Atualização da datanasc: A data de nascimento do registro com o código 5 foi atualizada para 08/03/2022.
-!
-4.Exclusão de um registro: O registro com o código 10 foi excluído da tabela.
-!
-5.Alteração do tipo de dado: O tipo de dado do campo "cod" foi alterado para "smallint" e, se já fosse "smallint", seria alterado para "bigint".
-!
-6.Criação de outra tabela e população: Uma nova tabela chamada "tbcidade" foi criada com os campos "codunloco" (varchar), "nomecidade" (varchar), "ufestado" (varchar), "pais" (varchar) e "coordenadas" (varchar). Essa tabela foi relacionada com a tabela "tbpessoa". Dados foram inseridos nessa nova tabela através de comandos SQL e também foi mencionado o uso de uma técnica para popular os dados em massa.
+1. Criação da tabela tbpessoa: Foi criada a tabela "tbpessoa" com os campos: "cod" (integer), "nome" (varchar), "cpf" (varchar) e "datanasc" (date)
+
+2. Inserção de 10 registros aleatórios: Foram inseridos 10 registros fictícios na tabela "tbpessoa", cada um contendo informações como código, nome, CPF e data de nascimento.
+
+3. Atualização da datanasc: A data de nascimento do registro com o código 5 foi atualizada para 08/03/2022.
+
+4. Exclusão de um registro: O registro com o código 10 foi excluído da tabela.
+
+5. Alteração do tipo de dado: O tipo de dado do campo "cod" foi alterado para "smallint" e, se já fosse "smallint", seria alterado para "bigint".
+
+6. Criação de outra tabela e população: Uma nova tabela chamada "tbcidade" foi criada com os campos "codunloco" (varchar), "nomecidade" (varchar), "ufestado" (varchar), "pais" (varchar) e "coordenadas" (varchar). Essa tabela foi relacionada com a tabela "tbpessoa". Dados foram inseridos nessa nova tabela através de comandos SQL e também foi mencionado o uso de uma técnica para popular os dados em massa.
 
 No decorrer dessas etapas, foi possível compreender as operações básicas da Linguagem de Manipulação de Dados em um contexto prático de gerenciamento de informações em um Banco de Dados de uma organização.
 
